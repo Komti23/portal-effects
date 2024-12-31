@@ -1,0 +1,4 @@
+name: End
+version: '${version}'
+main: ru.hypestyle.end.EndPortalParticlesPlugin
+api-version: '1.20'
